@@ -1,2 +1,1 @@
-# fods
-Contains codes for Fundamentals of Data Science.
+# Fundamentals of Data Science
